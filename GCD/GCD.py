@@ -8,4 +8,4 @@ def GCD(a, b):
         a = b
         b = r
         r = a % b
-    print (b)
+    return b
