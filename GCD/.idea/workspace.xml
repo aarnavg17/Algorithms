@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="776d5dd5-a082-44ad-b40c-3f30e36748d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GCD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/LCM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LCM/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GCD.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lcm.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LCM/PrimeGenerator/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,5 +44,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
